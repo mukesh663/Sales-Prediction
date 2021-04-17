@@ -7,5 +7,5 @@ algorithm for predicting sales and further, it is used for classifying images co
 face portraits. The different optimization methods and activation functions that are used along
 with Back-Propagation algorithm to train the neural networks have also been discussed.
 <hr>
-<b>Keywords:<b> Neural Networks, Back-Propagation algorithm, Time-series forecasting, Activation
+<b>Keywords:</b> Neural Networks, Back-Propagation algorithm, Time-series forecasting, Activation
 function, Stochastic Gradient Descent.
